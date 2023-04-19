@@ -1,7 +1,6 @@
-
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Niville Bayeh",
+	"author": "Niville Bayeh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
